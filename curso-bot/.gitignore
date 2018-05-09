@@ -62,3 +62,7 @@ typings/
 
 # File of configuration
 .env
+
+# Ignore images 
+*.jpeg
+*.jpg
